@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Stories</string>
+    <string name="username">Username</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="home">Home</string>
+    <string name="logout">logout</string>
 </resources>
